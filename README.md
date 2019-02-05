@@ -1,11 +1,14 @@
 # data-science-bag-of-holding
 Grab bag of anything I've found useful related to data science (blogs, papers, online courses, books, etc.)
 
-- [Interesting Papers](papers/papers_summaries.md)
+- [Interesting Papers](paper_summaries.md)  
   Links to the most interesting ML research papers I've found, along with short descriptions
 
-- Blogs
+- [Blogs and Articles](blog_summaries.md)  
+  Running list (and summary) of interesting content from around the interwebs
 
-- Online Courses
+- [Online Courses](online_class_reviews.md)  
+  The best online classes I've completed
 
-- Books
+- [Books](book_reviews.md)  
+  Reviews of ML books
