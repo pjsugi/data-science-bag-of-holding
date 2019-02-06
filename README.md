@@ -7,6 +7,9 @@ Grab bag of anything I've found useful related to data science (blogs, papers, o
 - [Blogs and Articles](blog_summaries.md)  
   Running list (and summary) of interesting content from around the interwebs
 
+- [Presentations](presentation_summaries.md)  
+  Same as above, but for presentations
+
 - [Online Courses](online_class_reviews.md)  
   The best online classes I've completed
 
