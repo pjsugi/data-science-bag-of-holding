@@ -1,10 +1,10 @@
 # Table of Contents
-[ML - Basics](paper_summaries.md#machine-learning---basics)
-[ML - Specific Techniques](paper_summaries.md#machine-learning---specific-techniques)
-[Network Analysis](paper_summaries.md#network-analysis)
-[Experimentation](paper_summaries.md#experimentation)
-[Deep Learning](paper_summaries.md#deep-learning)
-[Random Stuff](paper_summaries.md#random-stuff)
+[ML - Basics](paper_summaries.md#machine-learning---basics)  
+[ML - Specific Techniques](paper_summaries.md#machine-learning---specific-techniques)  
+[Network Analysis](paper_summaries.md#network-analysis)  
+[Experimentation](paper_summaries.md#experimentation)  
+[Deep Learning](paper_summaries.md#deep-learning)  
+[Random Stuff](paper_summaries.md#random-stuff)  
 
 
 ## Machine Learning - Basics
@@ -91,6 +91,9 @@
   Best paper winner of NeurIPS 2018. The authors define a **continuous** deep neural network and show that out-of-the-box ODE solvers can be used to train it. This is in contrast to previous formulations which used **discrete** number of layers and backpropagation to train them. Continuous networks are the limit of discrete networks as the number of layers increases to infinity, thus it makes sense that ODE solvers can be used to train a continuous network. The advantage of continuous networks is that they have constant memory cost, can adapt evaluation strategy to each input (dynamic network), and can explicitly tradeoff numerical precision for speed.
 
 ## Random Stuff
+- [Man is to computer programmer as woman is to homemaker? Debiasing word embeddings](papers/Debiasing%20Word%20Embeddings.pdf)  
+  Bias can enter ML algorithms because the underlying data is biased. These researchers showed when trained on Google News articles, that word embeddings still contained gender stereotypes. They show how quantify the amount of gender bias, and then also how to modify the embeddings to "debias" them.
+
 - [Quantifying the human impact of human mobility on malaria](papers/Quantifying%20the%20impact%20of%20human%20mobility%20on%20malaria.pdf)  
   Using "big data" for social good. The researchers use mobile phone location data to quantify the spread of a malarial outbreak. This could be used as an early warning system for the spread of diseases (if the data is available).
 

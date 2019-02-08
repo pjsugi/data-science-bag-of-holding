@@ -5,28 +5,28 @@
 
 ### Personal Blogs
 
-- [Ed Chen](http://blog.echen.me/)
+- [Ed Chen](http://blog.echen.me/)  
   Every post contains an incredibly clear explanation of a complicated topic in ML. For example, [causal inference techniques](http://blog.echen.me/2014/08/15/propensity-modeling-causal-inference-and-discovering-drivers-of-growth/), [summary of Netflix prize-winning techniques](http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/), and [gaussian mixture modeling](http://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/). Unfortunately, not updated recently.
 
-- [Alex Madrigal](https://www.theatlantic.com/author/alexis-madrigal/)
+- [Alex Madrigal](https://www.theatlantic.com/author/alexis-madrigal/)  
   One of my favorite journalists in tech. Some highlights are [Reverse Engineering Netflix](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/) and [What is Pinterest? A Database of Intentions](https://www.theatlantic.com/technology/archive/2014/07/what-is-pinterest-a-database-of-intentions/375365/)
 
-- [Benedict Evans](https://www.ben-evans.com/archive/)
+- [Benedict Evans](https://www.ben-evans.com/archive/)  
   Every article is an insightful, opinionated view of some aspect of the tech industry, and where it's heading.
 
-- [Justin O'Beirne](https://www.justinobeirne.com/)
+- [Justin O'Beirne](https://www.justinobeirne.com/)  
   A brilliant running series that analyzes the differences between Apple and Google Maps, and illustrates in fascinating detail how Google Maps has consistently stayed 1-2 steps ahead of Apple.
 
-- [Colah's blog](http://colah.github.io/)
+- [Colah's blog](http://colah.github.io/)  
   Clear explanations (and great diagrams) of many topics in neural networks.
 
-- [Andrew Gelman](https://statmodeling.stat.columbia.edu/)
+- [Andrew Gelman](https://statmodeling.stat.columbia.edu/)  
   Stats profession and expert in Bayesian methods. Frequently updated. He frequently makes posts about statistics applied poorly and I especially enjoyed the one on bad uses of [regression discontinuity](https://statmodeling.stat.columbia.edu/2018/08/02/38160/) (4th order polynomial fits!). Another post on [why well-designed randomized studies fail to generalize](https://statmodeling.stat.columbia.edu/2018/11/22/also-observed-results-smaller-studies-conducted-ngos-often-pilot-studies-often-look-promising-governments-tried-implement-scaled-versions/) when the treatment is applied more broadly is also interesting.
 
-- [Flowing Data (Nathan Yau)](https://flowingdata.com/)
+- [Flowing Data (Nathan Yau)](https://flowingdata.com/)  
   Tons of great visualization examples. In general, anything you might want to know about data visualization can probably be found here.
 
-- [xkcd - Randall Munroe](https://xkcd.com/)
+- [xkcd - Randall Munroe](https://xkcd.com/)  
 
 ### Company Blogs
 The blogs below are all worth following. For each one, I've highlighted the articles that I found particularly interesting.
