@@ -1,10 +1,10 @@
 # Table of Contents
-[ML - Basics](papers/paper_summaries.md#machine-learning---basics)  
-[ML - Specific Techniques](papers/paper_summaries.md#machine-learning---specific-techniques)  
-[Network Analysis](papers/paper_summaries.md#network-analysis)  
-[Experimentation](papers/paper_summaries.md#experimentation)  
-[Deep Learning](papers/paper_summaries.md#deep-learning)  
-[Random Stuff](papers/paper_summaries.md#random-stuff)  
+[ML - Basics](paper_summaries.md#machine-learning---basics)
+[ML - Specific Techniques](paper_summaries.md#machine-learning---specific-techniques)
+[Network Analysis](paper_summaries.md#network-analysis)
+[Experimentation](paper_summaries.md#experimentation)
+[Deep Learning](paper_summaries.md#deep-learning)
+[Random Stuff](paper_summaries.md#random-stuff)
 
 
 ## Machine Learning - Basics
@@ -66,7 +66,7 @@
 
 ## Experimentation
 - [Why Marketplace Experimentation Is Harder than it Seems- The Role of Test-Control Interference](papers/Why%20Marketplace%20Experimentation%20Is%20Harder%20than%20it%20Seems-%20The%20Role%20of%20Test-Control%20Interference.pdf)  
-  When running A/B tests in marketplaces (or networks), one must make sure to make sure the treatment doesn't affect the control group. One way of doing this is propensity matching of markets. For instance Uber/Lyft might apply a treatment to everyone in city A, using city B as control where A & B and as similar as possible (and possibly using more pairs of cities). Or a social network will run an A/B test on two different cliques of users who are more than n-degrees of separation from each other. eBay researchers discuss an example where they ran an email test but did not ensure separation of treatment/control groups for a given auction. This resulted in the outcomes of the treatment group affecting the outcomes of the control group (treatment group received a reminder and were therefore more likely to bid and win an auction, which then meant the control group was less likely to win the auction).
+  When running A/B tests in marketplaces (or networks), one must make sure to make sure the treatment doesn't affect the control group. One way of doing this is propensity matching of markets. For instance Uber/Lyft might apply a treatment to everyone in city A, using city B as control where A & B and as similar as possible (and possibly using more pairs of cities). Or a social network will run an A/B test on two different cliques of users who are more than n-degrees of separation from each other. This reduces the bias due to interference, but increases the variance due to using smaller sample sizes or due to imperfect matching. eBay researchers discuss an example where they ran an email test but did not ensure separation of treatment/control groups for a given auction. This resulted in the outcomes of the treatment group affecting the outcomes of the control group (treatment group received a reminder and were therefore more likely to bid and win an auction, which then meant the control group was less likely to win the auction).
 
 - [A practical guide to regression discontinuity](papers/A%20practical%20guide%20to%20regression%20discontinuity.pdf)  
   Regression discontinuity is a technique used to estimate causal effects from "natural experiments" that arise when a sample group is selected for treatment based on whether their feature value exceeds a threshold. An example would be if a lending company uses a person's credit score to determine what interest rate to offer. If the threshold is a credit score of 740, people with credit scores of 739 and 741 should be similar, but would be offered different interest rates. We can therefore assess the impact of raising interest rates by comparing the samples above and below the threshold.
