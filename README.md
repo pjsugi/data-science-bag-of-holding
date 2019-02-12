@@ -15,3 +15,6 @@ Grab bag of anything I've found useful related to data science (blogs, papers, o
 
 - [Books](book_reviews.md)  
   Reviews of ML books
+
+- [Efficiency Hacks](efficiency_hacks.md)  
+  Efficiency tips about using a Mac, Slack, Github, Sublime, and your terminal

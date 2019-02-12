@@ -14,7 +14,7 @@ Data Science courses from some of the best professors and institutions.
 3. [Natural Language Processing - Jurafsky and Manning](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)  
   An excellent survey of NLP by two excellent teachers. Lectures and homeworks were pretty much identical to their Stanford undergraduate-level NLP course. However, no longer offered on Coursera.
 
-4. Social Network Analysis - Lada Adamic
+4. Social Network Analysis - Lada Adamic  
   Fun introduction to representing (adjacency matrices, edge lists) and analyzing social graphs. Covers topics ranging from random network models, small world networks, communities, and diffusion of information. No longer offered on Coursera :(.
 
 5. [Neural Networks for Machine Learning - Geoffrey Hinton](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)  
