@@ -25,3 +25,6 @@ Data Science courses from some of the best professors and institutions.
 
 7. [Causal Diagrams - Miguel Hernan](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your-conclusions)  
   This course is a great next step to take if, like me, you read [The Book of Why](book_reviews.md) and are still slightly confused by the rules of causal diagrams and want to dig deeper. The course clearly explains many of the same concepts as Pearl's book, but provides many more examples (along with excellent diagrams), and also goes deeper into many topics (e.g. how to handle uncertainty, dealing with time-varying treatments).
+
+8. [Statistics 110: Probability - Joe Blitzstein](https://projects.iq.harvard.edu/stat110)  
+ In the hands of a lesser teacher, probability could be a boring subject. However, every single one of Joe's lectures are incredibly well designed to help students engage with the material. He mixes together fascinating examples with complex derivations, and all with a dash of humor thrown in. One of the best aspects of the class are the "story proofs", which emphasize intuition over mathematics and helps ensure that the student truly understands each topic.
