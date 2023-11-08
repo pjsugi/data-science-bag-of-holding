@@ -1,0 +1,5 @@
+# Code
+Samples of code I've written
+
+- [Bayesian Target Encoding](bayesian_target_encoding.py)
+  - I have not found an implementation of bayesian target encoding in python, so I wrote an implementation myself. Target encoding is a feature transformation for categorical variables that encodes each level of the categorical variable as a summary statistic (usually mean) of the level. It's a useful transformation because it reduces the dimensionality of the (as opposed to one-hot encoding), and is ordered (as opposed to label encoding). However, a main drawback is that it will overfit when the number of samples in a level is small. In the case where a categorical value only appears once, the mean of the level will be the label itself. Bayesian target encoding fixes this issue by adding regularization via priors. If the sample size in a level is small, the encoding will be close to the overall mean. A great example of this method applied to baseball statistics can be found [here](http://varianceexplained.org/r/empirical_bayes_baseball/).
